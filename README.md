@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DEN-FAST
+- 👀 I’m interested in games, PC, meme
+- 🌱 I’m currently learning Python, C++
